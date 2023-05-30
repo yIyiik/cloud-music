@@ -33,7 +33,7 @@
    - 点击旋转的专辑封面可查看歌词
    - 下方有进度条显示
 
-## 技术支持
+## 技术栈
 
 1. [网易云 API](https://neteasecloudmusicapi-docs.4everland.app/)
 2. [vue](https://cn.vuejs.org/)
